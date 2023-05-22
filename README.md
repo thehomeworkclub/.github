@@ -2,10 +2,10 @@
 ## Who are we?
 We are a group of 4 high schoolers who love to code. Each of us has our specialties, but in hackathons, we come together to make something unique.
 ## Specializations
-**Sebastian Alexis**
+**SebastianA**
 : Very fluent in Python, pretty good at web design (HTML, CSS with DaisyUI and Tailwind)
 
-**Aryan Jain**
+**HeckerWithAHat**
 : Excellent at Game Developement (C# with Unity), decent at Java (mainly used for Spigot Plugin Development)
 ## Hackathons
 ### Hack OC - MyMeals
