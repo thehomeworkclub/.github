@@ -3,16 +3,16 @@
 We are a group of 4 high schoolers who love to code. Each of us has our specialties, but in hackathons, we come together to make something unique.
 ## Specializations & Roles *(Languages in order of knowledge)*
 **Ayonull - Project Lead & Fullstack Developer**
-: Languages🔤: Python, C++, SQL, PHP, HTML, CSS
+* Languages🔤: Python, C++, SQL, PHP, HTML, CSS
 
 **Bongo Cat - Project Lead & Database Developer**
-: Languages🔤: Kotlin, Java, SQL (w/OEM), C++
+* Languages🔤: Kotlin, Java, SQL (w/OEM), C++
 
 **SebastianA - Lead UI/UX Developer**
-: Languages🔤: Python, HTML, CSS with DaisyUI and Tailwind
+* Languages🔤: Python, HTML, CSS with DaisyUI and Tailwind
 
 **HeckerWithAHat - FullStack Developer**
-: Languages🔤: Java, C#
+* Languages🔤: Java, C#
 
 ## Hackathons
 ### Hack OC - MyMeals
