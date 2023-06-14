@@ -5,7 +5,7 @@ We are a group of 4 high schoolers who love to code. Each of us has our specialt
 **Ayonull - Project Lead & Fullstack Developer**
 * Languages🔤: Python, C++, SQL, PHP, HTML, CSS
 
-**Bongo Cat - Project Lead & Database Developer**
+**Bongo Cat - Project Lead & Backend/Database Developer**
 * Languages🔤: Kotlin, Java, SQL (w/OEM), C++
 
 **SebastianA - Lead UI/UX Developer**
