@@ -1,6 +1,6 @@
 # THE HOMEWORK CLUB
 ## Who are we?
-We are a group of 4 high schoolers who love to code. Each of us has our specialties, but in hackathons, we come together to make something unique.
+We are a group of 4 high schoolers who love to code. Each of us has our specialties, but in projects, we come together to make something unique.
 ## Specializations & Roles *(Languages in order of knowledge)*
 **Ayonull - Project Lead & Fullstack Developer**
 * Languages🔤: Python, C++, SQL, PHP, HTML, CSS
@@ -14,7 +14,7 @@ We are a group of 4 high schoolers who love to code. Each of us has our specialt
 **HeckerWithAHat - FullStack Developer**
 * Languages🔤: Java, C#
 
-## Hackathons
+## Hackathons/Competions
 ### Hack OC - MyMeals
 * Status: Unfinished <br>
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
