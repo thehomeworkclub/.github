@@ -8,7 +8,7 @@ We are a group of 4 high schoolers who love to code. Each of us has our specialt
 **Bongo Cat - Project Lead & Backend/Database Developer**
 * Languages🔤: Kotlin, Java, SQL (w/OEM), C++
 
-**SebastianA - Lead UI/UX Developer**
+**SebastianA - Project Lead & Lead UI/UX Developer**
 * Languages🔤: Python, HTML, CSS with DaisyUI and Tailwind
 
 **HeckerWithAHat - FullStack Developer**
