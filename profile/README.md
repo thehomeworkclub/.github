@@ -11,7 +11,7 @@ We are a group of 4 high schoolers who love to code. Each of us has our specialt
 **SebastianA - Project Lead & Lead UI/UX Developer**
 * Languages🔤: Python, HTML, CSS with DaisyUI and Tailwind
 
-**HeckerWithAHat - FullStack Developer**
+**HeckerWithAHat - FullStack Developer & Game Dev**
 * Languages🔤: Java, C#
 
 ## Hackathons/Competitions
