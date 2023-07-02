@@ -1,6 +1,6 @@
 # THE HOMEWORK CLUB
 ## Who are we?
-We are a group of 4 high schoolers who love to code. Each of us has our specialties, but in projects, we come together to make something unique.
+We are a group of 5 high schoolers who love to code. Each of us has our specialties, but in projects, we come together to make something unique.
 ## Specializations & Roles *(Languages in order of knowledge)*
 **Ayonull - Project Lead & Fullstack Developer**
 * Languages🔤: Python, C++, SQL, PHP, HTML, CSS
