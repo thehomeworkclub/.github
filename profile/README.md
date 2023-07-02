@@ -14,9 +14,12 @@ We are a group of 4 high schoolers who love to code. Each of us has our specialt
 **HeckerWithAHat - FullStack Developer & Game Dev**
 * Languages🔤: Java, C#
 
+**Flir - Frontend Developer & Graphics Expert**
+* Languages🔤: HTML, CSS
+
 ## Hackathons/Competitions
 ### [Hack OC](https://hackoc.org) - MyMeals
-* Status: Abandoned <br>
+* Status: Dropped/Unfinished <br>
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
 
 
