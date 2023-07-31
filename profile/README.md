@@ -3,7 +3,7 @@
 We are a group of 5 high schoolers who love to code. Each of us has our specialties, but in projects, we come together to make something unique.
 ## Specializations & Roles *(Languages in order of knowledge)*
 **Ayonull - Project Lead & Fullstack Developer**
-* Languages🔤: Python, C++, SQL, PHP, HTML, CSS
+* Languages🔤: Python, JS, C++, SQL, PHP, HTML, CSS
 
 **Bongo Cat - Project Lead & Backend/Database Developer**
 * Languages🔤: Kotlin, Java, SQL (w/OEM), C++
