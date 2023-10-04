@@ -14,7 +14,7 @@ We are a group of 6 high schoolers who love to code. Each of us has our specialt
 **HeckerWithAHat - FullStack Developer & Game Dev**
 * Languages🔤: Java, C#
 
-**Flir - Frontend Developer & Graphics Expert**
+**Flir - Frontend Developer**
 * Languages🔤: HTML, CSS
 
 **Haiku - Frontend Designer**
