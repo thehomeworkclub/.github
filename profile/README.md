@@ -1,4 +1,4 @@
-# THE HOMEWORK CLUB
+<img src="https://cdn.primitt.dev/banner"></img>
 ## Who are we?
 We are a group of 6 high schoolers who love to code. Each of us has our specialties, but in projects, we come together to make something unique.
 ## Specializations & Roles *(Languages in order of knowledge)*
