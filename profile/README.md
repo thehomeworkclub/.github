@@ -25,5 +25,5 @@ We are a group of 6 high schoolers who love to code. Each of us has our specialt
 * Status: Dropped/Unfinished <br>
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
 
-Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)
+Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)<br>
 ©️ The Homework Club: Dedicated to ~~Hacking you~~ Helping you with your homework.
