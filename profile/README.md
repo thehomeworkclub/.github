@@ -2,10 +2,12 @@
 
 ## Projects
 ### [Hack OC](https://hackoc.org) - MyMeals
-* Status: Dropped/Unfinished <br>
+* Status: Dropped/Unfinished <be>
+* Type: Hackathon/12hr
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
 ### Name TBD
 * Status: Working On...
+* Type: Long-Term Project
 * Description: TBA
 
 
