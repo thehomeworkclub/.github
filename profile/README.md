@@ -2,13 +2,17 @@
 
 ## Projects
 ### [Hack OC](https://hackoc.org) - MyMeals
-* Status: Dropped/Unfinished <be>
+* Status: Dropped/Unfinished
 * Type: Hackathon/12hr
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
-### Name TBD
-* Status: Working On...
-* Type: Long-Term Project
-* Description: TBA
+* Placement: Best Design
+
+### [Hack The Wave](https://hackthewave.com) - Whale-GPT
+* Status: Finished!
+* Type: Hackathon/12hr
+* Description: Ever seen a whale riding the trolley? Let us help decide whether you should see a doctor, or if it started raining whales!
+* Placement: 2nd Place & People's Choice
+
 
 
 Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)<br>
