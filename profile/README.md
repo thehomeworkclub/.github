@@ -14,7 +14,7 @@
 * Placement: 2nd Place & People's Choice
 
 ### [LexHacks](https://lexhackathon.org) - DeepDubbed
-* Status: Finised!
+* Status: Submitted/In Progress!
 * Type: Hackathon/48hr/Online
 * Descrption: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
 * Placement: *Pending*
