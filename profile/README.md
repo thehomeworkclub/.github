@@ -17,7 +17,7 @@
 * Status: Submitted/In Progress!
 * Type: Hackathon/48hr/Online
 * Descrption: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
-* Placement: *Pending*
+* Placement: 3rd Place
 
 
 Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)<br>
