@@ -19,6 +19,13 @@
 * Descrption: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
 * Placement: 3rd Place
 
+## Members
+* Priansh Mittra - prianshmittra@homeworkclub.dev
+* Esean Fang - eseanfang@homeworkclub.dev
+* Aryan Jain - aryanjain@homeworkclub.dev
+* Sebastian Alexis - sebastianalexis@homeworkclub.dev
+* Andy Zhang
+
 
 Contact us @ [hello@hws.primitt.dev](mailto:hello@hws.primitt.dev)<br>
 ©️ The Homework Club: Dedicated to ~~Hacking you~~ Helping you with your homework.
