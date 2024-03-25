@@ -16,8 +16,14 @@
 ### [LexHacks](https://lexhackathon.org) - DeepDubbed
 * Status: Submitted/In Progress!
 * Type: Hackathon/48hr/Online
-* Descrption: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
+* Description: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
 * Placement: 3rd Place
+
+### [CrackTheCode](https://crackthecode.dev) - DependGuard
+* Status: Submitted/In Progress!
+* Type: Hackathon/36hr/In-Person
+* Description: Secure Your GitHub Projects with Comprehensive Dependency Analysis and Community Insights
+* Placement: 1st Place
 
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
