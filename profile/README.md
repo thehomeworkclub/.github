@@ -30,7 +30,7 @@
 * Esean Fang - eseanfang@homeworkclub.dev
 * Aryan Jain - aryanjain@homeworkclub.dev
 * Sebastian Alexis - sebastianalexis@homeworkclub.dev
-* Andy Zhang
+* Andy Zhang - andyzhang@homeworkclub.dev
 
 
 Contact us @ [hello@hws.primitt.dev](mailto:hello@hws.primitt.dev)<br>
