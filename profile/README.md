@@ -33,5 +33,5 @@
 * Andy Zhang - andyzhang@homeworkclub.dev
 
 
-Contact us @ [hello@hws.primitt.dev](mailto:hello@hws.primitt.dev)<br>
+Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)<br>
 ©️ The Homework Club: Dedicated to ~~Hacking you~~ Helping you with your homework.
