@@ -25,6 +25,12 @@
 * Description: Secure Your GitHub Projects with Comprehensive Dependency Analysis and Community Insights
 * Placement: 1st Place
 
+### [AstroHacks](https://astrohacks.org) - Udder Mayhem
+* Status: Submitted/In Progress!
+* Type: Hackathon/11hr/In-Person
+* Description: A live, 3D, Virtual Reality game featuring, you guessed it... cows! (and UFO's)
+* Placement: Community Vote Winner
+
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
 * Esean Fang - eseanfang@homeworkclub.dev
