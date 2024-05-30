@@ -40,4 +40,4 @@
 
 
 Contact us @ [hello@homeworkclub.dev](mailto:hello@homeworkclub.dev)<br>
-©️ The Homework Club: Dedicated to ~~Hacking you~~ Helping you with your homework.
+©️ The Homework Club: Dedicated to ~~hacking you~~ helping you with your homework.
