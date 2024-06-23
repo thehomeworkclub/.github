@@ -31,6 +31,12 @@
 * Description: A live, 3D, Virtual Reality game featuring, you guessed it... cows! (and UFO's)
 * Placement: Community Vote Winner
 
+### [WaffleHacks](https://wafflehacks.org) - Jukebox
+* Status: Submitted/In Progress!
+* Type: Hackathon/48hr/Online
+* Description: Listen to music with your friends, in real time, anywhere in the world.
+* Placement: 1st Place in the Best Community Hack Track
+
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
 * Esean Fang - eseanfang@homeworkclub.dev
