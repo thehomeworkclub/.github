@@ -1,4 +1,4 @@
-<img src="https://cdn.primitt.dev/banner"></img>
+<img src="media/banner.png"></img>
 
 ## Projects
 ### [Hack OC](https://hackoc.org) - MyMeals
