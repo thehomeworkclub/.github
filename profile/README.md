@@ -2,49 +2,49 @@
 
 ## Projects
 ### [Hack OC](https://hackoc.org) - MyMeals
-* Status: Dropped/Unfinished
+* Status: Submitted/Dropped
 * Type: Hackathon/12hr/In-Person
 * Description: For HackOC, the Homework Club created MyMeals, an AI meal planner that monitors nutrition, keeps to a diet, and finds meals you love. We won the Best Design award, earning a Keychron K8 keyboard.
 * Placement: Best Design
 * Participants: Priansh, Aryan, Sebastian, Esean
 
 ### [Hack The Wave](https://hackthewave.com) - Whale-GPT
-* Status: Finished!
+* Status: Submitted/Finished
 * Type: Hackathon/12hr/In-Person
 * Description: Ever seen a whale riding the trolley? Let us help decide whether you should see a doctor, or if it started raining whales!
 * Placement: 2nd Place & People's Choice
 * Participants: Andy, Priansh, Sebastian
 
 ### [LexHacks](https://lexhackathon.org) - DeepDubbed
-* Status: Submitted/In Progress!
+* Status: Submitted/In Progress
 * Type: Hackathon/48hr/Online
 * Description: DeepDubbed uses AI deep learning to realistically and accurately dub in hundreds of languages for free, with both full audio and video coverage
 * Placement: 3rd Place
 * Participants: Andy, Priansh, Sebastian
 
 ### [CrackTheCode](https://crackthecode.dev) - DependGuard
-* Status: Submitted/In Progress!
+* Status: Submitted/In Progress
 * Type: Hackathon/36hr/In-Person
 * Description: Secure Your GitHub Projects with Comprehensive Dependency Analysis and Community Insights
 * Placement: 1st Place
 * Participants: Andy, Priansh, Sebastian, Aryan
 
 ### [AstroHacks](https://astrohacks.org) - Udder Mayhem
-* Status: Submitted/In Progress!
+* Status: Submitted/Dropped
 * Type: Hackathon/11hr/In-Person
 * Description: A live, 3D, Virtual Reality game featuring, you guessed it... cows! (and UFO's)
 * Placement: Community Vote Winner
 * Participants: Priansh, Andy, Sebastian, Aryan, Esean
 
 ### [WaffleHacks](https://wafflehacks.org) - Jukebox
-* Status: Submitted/In Progress!
+* Status: Submitted/In Progress
 * Type: Hackathon/48hr/Online
 * Description: Listen to music with your friends, in real time, anywhere in the world.
 * Placement: 1st Place in the Best Community Hack Track
 * Participants: Priansh, Andy, Aryan, Sebastian
 
 ### [United Hacks v3](https://unitedhacks.hackunited.org/) - DJ3000
-* Status: Submitted/In Progress!
+* Status: Submitted/In Progress
 * Type: Hackathon/36hr/Online
 * Description: The DJ3000 is a futuristic robot from The Simpsons devised as a joke over 30 years ago. Today, we not only brought this far-fetched fantasy to life, but made it cheap and easy for anyone to use. DJ3000 autonomously generates dynamic radio content using a playlist of preloaded music.
 * Placement: 1st Place in the Theme Track.
