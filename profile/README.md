@@ -50,6 +50,13 @@
 * Placement: 1st Place in the Theme Track.
 * Participants: Sebastian, Andy, Priansh
 
+### [Soario - AI Apps Hackathon](https://soario.devpost.com/) - ReVoice
+* Status: Submitted/In Progress
+* Type: Hackathon/24d/Online
+* Description: ReVoice aims to revolutionize education and news diffusion for the general public by providing a dubbing service that translates to over 30 languages.
+* Placement: PENDING
+* Participants: Priansh, Andy, Aryan, Sebastian
+
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
 * Esean Fang - eseanfang@homeworkclub.dev
