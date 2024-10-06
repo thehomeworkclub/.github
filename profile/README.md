@@ -54,7 +54,7 @@
 * Status: Submitted/In Progress
 * Type: Hackathon/24d/Online
 * Description: ReVoice aims to revolutionize education and news diffusion for the general public by providing a dubbing service that translates to over 30 languages.
-* Placement: PENDING
+* Placement: 1st Place
 * Participants: Priansh, Andy, Aryan, Sebastian
 
 ## Members
