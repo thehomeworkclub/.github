@@ -57,6 +57,13 @@
 * Placement: 1st Place
 * Participants: Priansh, Andy, Aryan, Sebastian
 
+### [MakeUC](https://makeuc.io/) - Emergency Exit 
+* Status: Submitted/Completed
+* Type: Hackathon/24hr/Online
+* Description: A green technology application that gathers live data regarding fires and uses multi-stage data processing, A* (dijkstra's) algorithm, and LLMs to return the best route in an evacuation scenario.
+* Placement: 2nd Place & Social Hacks Winner
+* Participants: Priansh, Andy, Sebastian
+
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
 * Esean Fang - eseanfang@homeworkclub.dev
