@@ -71,6 +71,8 @@
 * Placement: 1st Place (Cyber in Depth: ML Mayhem)
 * Participants: Andy, Sebastian, Priansh
 
+Total Hackathon Wins: **10**
+
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
 * Esean Fang - eseanfang@homeworkclub.dev
