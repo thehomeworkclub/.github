@@ -22,11 +22,11 @@
 * Placement: 3rd Place
 * Participants: Andy, Priansh, Sebastian
 
-### [CrackTheCode](https://crackthecode.dev) - DependGuard
+### [CrackTheCode](https://crackthecode.dev) (2024) - DependGuard
 * Status: Submitted/In Progress
 * Type: Hackathon/36hr/In-Person
 * Description: Secure Your GitHub Projects with Comprehensive Dependency Analysis and Community Insights
-* Placement: 1st Place
+* Placement: 1st Place (Cyber in Depth)
 * Participants: Andy, Priansh, Sebastian, Aryan
 
 ### [AstroHacks](https://astrohacks.org) - Udder Mayhem
@@ -63,6 +63,13 @@
 * Description: A green technology application that gathers live data regarding fires and uses multi-stage data processing, A* (dijkstra's) algorithm, and LLMs to return the best route in an evacuation scenario.
 * Placement: 2nd Place & Social Hacks Winner
 * Participants: Priansh, Andy, Sebastian
+
+### [CrackTheCode](https://crackthecode.dev) (2025) - ICS Malware Detection
+* Status: Submitted/Completed
+* Type: Hackathon/36hr/In-Person
+* Description:  A project to protect Industrial Control Systems from cyber attacks by detecting anomalous behavior patterns in system metrics and providing early warning of potential security breaches.
+* Placement: 1st Place (Cyber in Depth: ML Mayhem)
+* Participants: Andy, Sebastian, Priansh
 
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
