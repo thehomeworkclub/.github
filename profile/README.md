@@ -71,9 +71,9 @@
 * Placement: 1st Place (Cyber in Depth: ML Mayhem)
 * Participants: Andy, Sebastian, Priansh
 
-### [Juice](https://juice.hackclub.com/)
+### [Juice](https://juice.hackclub.com/) - (Project Name Coming Soon)
 * Status: In-Progress
-* Type: Hackclub Event/2M/Hybrid
+* Type: Hackclub Event/2M/Hybrid (Online -> China)
 * Participants: Andy, Sebastian, Esean
 
 Total Hackathon Wins: **10**
