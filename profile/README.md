@@ -72,11 +72,12 @@
 * Participants: Andy, Sebastian, Priansh
 
 ### [Juice](https://juice.hackclub.com/) - (Project Name Coming Soon)
-* Status: In-Progress
+* Status: Completed
 * Type: Hackclub Event/2M/Hybrid (Online -> China)
+* Placement: 1st Place (Popular Vote) 
 * Participants: Andy, Sebastian, Esean
 
-Total Hackathon Wins: **10**
+Total Hackathon Wins: **11**
 
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
