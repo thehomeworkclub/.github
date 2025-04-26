@@ -71,7 +71,7 @@
 * Placement: 1st Place (Cyber in Depth: ML Mayhem)
 * Participants: Andy, Sebastian, Priansh
 
-### [Juice](https://juice.hackclub.com/) - (Project Name Coming Soon)
+### [Juice](https://juice.hackclub.com/) - Modern Day Pirates
 * Status: Completed
 * Type: Hackclub Event/2M/Hybrid (Online -> China)
 * Placement: 1st Place (Popular Vote) 
