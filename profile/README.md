@@ -57,7 +57,7 @@
 * Placement: 1st Place
 * Participants: Priansh, Andy, Aryan, Sebastian
 
-### [MakeUC](https://makeuc.io/) - Emergency Exit 
+### [MakeUC](https://makeuc.io/) (2024) - Emergency Exit 
 * Status: Submitted/Completed
 * Type: Hackathon/24hr/Online
 * Description: A green technology application that gathers live data regarding fires and uses multi-stage data processing, A* (dijkstra's) algorithm, and LLMs to return the best route in an evacuation scenario.
@@ -77,7 +77,14 @@
 * Placement: 1st Place (Popular Vote) 
 * Participants: Andy, Sebastian, Esean
 
-Total Hackathon Wins: **11**
+### [MakeUC](https://makeuc.io) (2025) - Coop Colonel
+* Status: Completed
+* Type: Hackathon/24hr/Online
+* Description: Coop Colonel is a first of it's kind, low-power, low-cost, open source chicken monitoring solution for a backyard coop or small farm.
+* Placement: MLH Best Use of Vultr
+* Participants: Andy, Sebastian, Priansh, Kevin
+
+Total Hackathon Wins: **12**
 
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
