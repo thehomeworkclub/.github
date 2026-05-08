@@ -83,8 +83,14 @@
 * Description: Coop Colonel is a first of it's kind, low-power, low-cost, open source chicken monitoring solution for a backyard coop or small farm.
 * Placement: MLH Best Use of Vultr
 * Participants: Andy, Sebastian, Priansh, Kevin
+### [StangHacks](https://stanghacks.com) (2026) - Wadar
+* Status: Completed
+* Type: Hackathon/12hr/In-Person
+* Description: Wifi Detection And Ranging
+* Placement: 3rd Place
+* Participants: Andy, Sebastian, Priansh
 
-Total Hackathon Wins: **12**
+Total Hackathon Wins: **13**
 
 ## Members
 * Priansh Mittra - prianshmittra@homeworkclub.dev
